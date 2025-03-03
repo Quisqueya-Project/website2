@@ -1,0 +1,78 @@
+Quisqueya Token (QDO) - Whitepaper
+Version 1.0 | March 2025
+
+1. Introduction
+
+The Dominican Republic is globally recognized for its rich culture, vibrant music, breathtaking beaches, and the warmth of its people. Quisqueya Token (QDO) is a digital token built on the TON network, designed to serve as a collectible and community-driven asset that connects people worldwide with the essence of the Dominican Republic.
+
+2. Project Overview
+
+Quisqueya Token was created as an experimental token on TON with the purpose of being a symbol of Dominican identity and pride. As the project evolves, additional use cases will be explored to encourage adoption and utility within a global community.
+
+3. Key Features
+
+    Blockchain Network: TON (The Open Network)
+    Token Symbol: QDO
+    Total Supply: 21 million (fixed)
+    Smart Contract Address: EQClPI7Jl8GBINpdwPuq_CkTy5uS1lme0e_-xfwq1vmQY0CT
+    Transparency & Security: Transactions are fully verifiable on the blockchain.
+
+4. Mission and Vision
+
+Mission
+
+To promote Dominican art, culture, and values through a blockchain-based digital ecosystem, fostering an active and decentralized community.
+
+Vision
+
+To establish Quisqueya Token as a globally recognized digital asset with applications in events, commerce, and rewards within a vibrant and engaged community.
+
+5. Use Cases and Applications
+
+Currently, Quisqueya Token functions as a digital collectible, but future implementations are planned:
+
+    Community and Membership: Access to events, exclusive content, and special benefits for token holders.
+    Reward System: Incentivizing participation in activities related to Dominican culture.
+    Tourism and Commerce Ecosystem: Potential partnerships with local businesses for discounts and promotions.
+    NFTs and Digital Art: Representing Dominican art, music, and cultural elements on the TON blockchain.
+
+6. Token Economics (Tokenomics)
+
+Initial Distribution:
+
+    50% – Liquidity and exchange listings
+    25% – Community distribution (airdrops, rewards, incentives)
+    15% – Ecosystem development and new products
+    10% – Strategic reserves
+
+7. Technology and Security
+
+Quisqueya Token operates on the TON network, a fast, scalable, and secure blockchain. By leveraging TON Jettons, the token benefits from low-cost and high-efficiency transactions.
+
+8. Development Plan (Roadmap)
+
+Phase 1: Launch & Community (Q1 2025)
+
+✅ Token creation on the TON network
+✅ Logo and branding development
+✅ Building the initial community
+
+Phase 2: Expansion & Listing (Q2 2025)
+
+🔄 Verification submission on TON wallets and explorers
+🔄 Integration into platforms such as CoinMarketCap and CoinGecko
+🔄 First airdrops and rewards
+
+Phase 3: Applications & Growth (Q3-Q4 2025)
+
+🚀 Development of Dominican-themed NFTs
+🚀 Establishing partnerships with crypto projects and businesses
+🚀 Global community expansion
+
+9. Team and Community
+
+Quisqueya Token is an open and collaborative project. The community plays a central role in its evolution and future direction.
+
+10. Conclusion
+
+Quisqueya Token represents a unique opportunity to unite technology, culture, and community into a single digital ecosystem. While its origin is experimental, the project has the potential to become a key pillar within the crypto community of the Dominican Republic and beyond.
